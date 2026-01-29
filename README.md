@@ -26,7 +26,7 @@
 **Topik:** E-commerce Shopper Behavior and Lifestyle  
 **Sumber:** [Kaggle Dataset](https://www.kaggle.com/api/v1/datasets/download/dhrubangtalukdar/e-commerce-shopper-behavior-amazonshopify-based)
 
-Dataset ini dipilih karena memenuhi karakteristik **Big Data (Volume & Variety)**, mencakup berbagai fitur demografis dan perilaku belanja pelanggan (seperti *spending*, frekuensi pembelian, dll) yang cocok untuk dianalisis secara *batch processing*.
+Dataset ini dipilih karena memenuhi karakteristik Big Data (Volume, Velocity, Variety, Veracity, and Value), mencakup berbagai fitur demografis dan perilaku belanja pelanggan (seperti spending, frekuensi pembelian, dll) yang cocok untuk dianalisis secara batch processing.
 
 ---
 
