@@ -8,7 +8,7 @@
 - **Semester**    : Ganjil 2025/2026  
 
 ## 👨‍🏫 Dosen Pengampu
-- Mulia Sulistiyono, M.Kom  
+- Mulia Sulistiyono, S.Kom., M.Kom.
 
 ## 👥 Anggota Kelompok
 
